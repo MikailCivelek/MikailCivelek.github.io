@@ -68,9 +68,9 @@ export default {
         2: false,
       },
       pages: [
-        '/mikailcivelekpxl.github.io/reflectieverslagen/innovatieroute',
-        '/mikailcivelekpxl.github.io/reflectieverslagen/programmeerwedstrijd',
-        '/mikailcivelekpxl.github.io/reflectieverslagen/studybuddy',
+        '/reflectieverslagen/innovatieroute',
+        '/reflectieverslagen/programmeerwedstrijd',
+        '/reflectieverslagen/studybuddy',
       ],
       cards: [
         {
