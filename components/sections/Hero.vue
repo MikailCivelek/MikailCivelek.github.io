@@ -34,17 +34,17 @@ export default {
     return {
       carouselsData: [
         {
-          src: 'talent.jpg',
+          src: '/MikailCivelekPXL.github.io/images/talent.jpg',
           heading: ' Portfolio I-Talent Mikail Civelek ',
           subHeading: ' ',
         },
         {
-          src: 'corda_campus.jpg',
+          src: '/corda_campus.jpg',
           heading: ' Corda Campus ',
           subHeading: '',
         },
         {
-          src: 'pxl.jpg',
+          src: '/MikailCivelekPXL.github.io/pxl.jpg',
           heading: ' Hogeschool PXL',
           subHeading: '',
         },
