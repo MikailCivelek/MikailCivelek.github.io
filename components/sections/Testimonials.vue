@@ -20,7 +20,7 @@
                 : 'box-shadow: 20px 10px 20px 0px #000000;'
             "
           >
-            <img src="me.jpg" />
+            <img src="/me.jpg" />
           </div>
         </div>
       </div>
