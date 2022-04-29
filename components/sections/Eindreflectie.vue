@@ -20,7 +20,7 @@
             "
             data-tilt
           >
-            <img src="me_special.jpg" />
+            <img src="/MikailCivelekPXL.github.io/me_special.jpg" />
           </div>
           <div
             style="display: inline-block; margin-top: 150px"
@@ -33,14 +33,14 @@
           >
             <img
               v-if="$vuetify.theme.dark"
-              src="hogeschool_dark.png"
+              src="/MikailCivelekPXL.github.io/imgaes/hogeschool_dark.png"
               width="500px"
               height="100px"
               class="m-4"
             />
             <img
               v-else
-              src="hogeschool_light.png"
+              src="MikailCivelekPXL.github.io/images/hogeschool_light.png"
               width="500px"
               height="100px"
               class="m-4"
@@ -55,7 +55,7 @@
             "
             data-tilt
           >
-            <img src="datasense.png" width="500px" height="100px" class="m-4" />
+            <img src="/datasense.png" width="500px" height="100px" class="m-4" />
           </div>
         </div>
       </div>
