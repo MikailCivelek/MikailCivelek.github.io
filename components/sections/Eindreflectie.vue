@@ -55,7 +55,12 @@
             "
             data-tilt
           >
-            <img src="/datasense.png" width="500px" height="100px" class="m-4" />
+            <img
+              src="/datasense.png"
+              width="500px"
+              height="100px"
+              class="m-4"
+            />
           </div>
         </div>
       </div>

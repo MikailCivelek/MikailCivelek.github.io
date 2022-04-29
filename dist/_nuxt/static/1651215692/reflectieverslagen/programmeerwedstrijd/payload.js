@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/reflectieverslagen/programmeerwedstrijd", {data:[{}],fetch:{},mutations:void 0});

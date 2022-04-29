@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/reflectieverslagen/studybuddy", {data:[{}],fetch:{},mutations:void 0});
