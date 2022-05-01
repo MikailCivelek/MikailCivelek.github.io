@@ -173,7 +173,7 @@ export default {
       cards: [
         {
           title: 'Cap Gemini (Unit Testing)',
-          text: 'In deze seminarie heb ik meer geleerd over Unit Testing en de best practices hiervan. Daarlangs hebben we zelf ook een paar Unit-testen kunnen schrijven en hierop werd ook feedback gegeven hoe we het beter konden doen volgens de best practices. Er was ook een kleine introductie in test driven development. Ten slotte hebben we ook de meest voorkomende fouten besproken en hoe we deze kunnen vermijden.',
+          text: 'In deze seminarie heb ik meer geleerd over Unit Testing en de best practices hiervan. Daarnaast hebben we zelf ook een paar Unit-testen kunnen schrijven en hierop werd ook feedback gegeven hoe we het beter konden doen volgens de best practices. Er was ook een kleine introductie in test driven development. Ten slotte hebben we ook de meest voorkomende fouten besproken en hoe we deze kunnen vermijden.',
           datum: '18 februari 2020',
           locatie: 'Hogeschool PXL',
           duur: '4 uur',
@@ -181,7 +181,7 @@ export default {
         },
         {
           title: 'Wheelhouse (JAMstack)',
-          text: 'In deze seminarie wordt er niet over een technologie gepraat, maar over een manier van werken, namelijk JAMstack (Javascript APIs Markup-stack). De Jamstack-architectuur heeft vele voordelen, of het nu gaat over een grote e-commercesite, SaaS-toepassing of persoonlijke blog. Daarlangs is er gesproken hoe je aan JAMstack begint en is er een demonstratie gegeven van een website met deze werkwijze.',
+          text: 'In deze seminarie wordt er niet over een technologie gepraat, maar over een manier van werken, namelijk JAMstack (Javascript APIs Markup-stack). De Jamstack-architectuur heeft vele voordelen, of het nu gaat over een grote e-commercesite, SaaS-toepassing of persoonlijke blog. Daarnaast is er gesproken hoe je aan JAMstack begint en is er een demonstratie gegeven van een website met deze werkwijze.',
           datum: '23 maart 2021',
           locatie: 'Microsoft Teams Online',
           duur: '3 uur',
@@ -197,7 +197,7 @@ export default {
         },
         {
           title: 'Datasense (Snowflake)',
-          text: 'In deze seminarie wordt er uitgelegd over Snowflake, een datawarehouse-systeem dat zeer snel gegevens kan verwerken. Vervolgens vertelt Niels over de uitdagingen van datawarehouse-projecten. Daarlangs is er meer diepgang over wat Snowflake precies is en de voordelen hiervan. Na deze infosessie hebben de studenten de kans gekregen om zelf een aantal oefeningen te maken op het platform.',
+          text: 'In deze seminarie wordt er uitgelegd over Snowflake, een datawarehouse-systeem dat zeer snel gegevens kan verwerken. Vervolgens vertelt Niels over de uitdagingen van datawarehouse-projecten. Daarnaast is er meer diepgang over wat Snowflake precies is en de voordelen hiervan. Na deze infosessie hebben de studenten de kans gekregen om zelf een aantal oefeningen te maken op het platform.',
           datum: '10 november 2021',
           locatie: 'Hogeschool PXL',
           duur: '3 uur',
@@ -205,7 +205,7 @@ export default {
         },
         {
           title: 'Accenture (Cloudhosting)',
-          text: 'In deze seminarie wordt er uitgelegd over applicaties gehost op de cloud en de voordelen hiervan. Ook het hele proces van bedrijfsdoelstellingen identificeren tot en met cloud als een leveringsplatform is uitgelegd. Daarlangs is er ook basiskennis gedeeld van docker-images om de studenten genoeg uitleg te geven zodat ze kunnen volgen.',
+          text: 'In deze seminarie wordt er uitgelegd over applicaties gehost op de cloud en de voordelen hiervan. Ook het hele proces van bedrijfsdoelstellingen identificeren tot en met cloud als een leveringsplatform is uitgelegd. Daarnaast is er ook basiskennis gedeeld van docker-images om de studenten genoeg uitleg te geven zodat ze kunnen volgen.',
           datum: '1 december 2021',
           locatie: 'Microsoft Teams Online',
           duur: '3 uur',
@@ -213,7 +213,7 @@ export default {
         },
         {
           title: 'Eurofins (Docker)',
-          text: 'In deze seminarie hebben studenten geleerd wat Docker precies is en hoe het werkt. Vervolgens heeft Martijn uitgelegd hoe Docker de meest voorkomende problemen in applicatieontwikkeling oplost. Daarlangs heeft hij ook de verschillen en gelijkenissen aangehaald tegenover virtual machines. Hierna hebben we ook de kans gekregen om een Docker-container op te zetten en hiermee te experimenteren.',
+          text: 'In deze seminarie hebben studenten geleerd wat Docker precies is en hoe het werkt. Vervolgens heeft Martijn uitgelegd hoe Docker de meest voorkomende problemen in applicatieontwikkeling oplost. Daarnaast heeft hij ook de verschillen en gelijkenissen aangehaald tegenover virtual machines. Hierna hebben we ook de kans gekregen om een Docker-container op te zetten en hiermee te experimenteren.',
           datum: '8 december 2021',
           locatie: 'Microsoft Teams Online',
           duur: '3 uur',
@@ -271,7 +271,7 @@ export default {
         },
         {
           title: 'POP-Sessie: (Veer)krachtige teams',
-          text: 'In deze POP-sessie hebben we als een team gewerkt om enkele activiteiten uit te voeren. Deze dienden om onze teamgenoten te leren vertrouwen en met constructieve feedback om te gaan zodat we kunnen groeien als team en individueel. Daarlangs leerden we ook wat het betekent om een teamspeler te zijn en wat een goed team is.',
+          text: 'In deze POP-sessie hebben we als een team gewerkt om enkele activiteiten uit te voeren. Deze dienden om onze teamgenoten te leren vertrouwen en met constructieve feedback om te gaan zodat we kunnen groeien als team en individueel. Daarnaast leerden we ook wat het betekent om een teamspeler te zijn en wat een goed team is.',
           datum: '3 maart 2020',
           locatie: 'Hogeschool PXL',
           duur: '3 uur',

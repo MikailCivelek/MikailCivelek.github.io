@@ -37,7 +37,7 @@
           naar uitdagingen en ben ik heel nieuwsgierig over hoe iets in elkaar
           zit. <br />
           <br />
-          Daarlangs werk ik dagelijks met de computer en hierdoor maak ik zelf
+          Daarnaast werk ik dagelijks met de computer en hierdoor maak ik zelf
           ook kleine projecten om altijd bij te leren. Hierin kan ik me snel
           uren in verliezen omdat ik graag ideeën uitwerk en ik het resultaat
           bestudeer. Om toch een overzicht te krijgen van alles wat ik doe, ga
@@ -45,7 +45,7 @@
           en ideeën. Door dit regelmatig te doen, geven medestudenten mij vaak
           de verantwoordelijkheid om de taken en deadlines bij te houden zodat
           wij niets uit het oog verliezen. Dit doe ik graag om alles tot een
-          goed einde te kunnen brengen. Daarlangs vind ik het ook interessant
+          goed einde te kunnen brengen. Daarnaast vind ik het ook interessant
           omdat ik later ook zelf de verantwoordelijkheid wil hebben om een
           project tot een goed einde te brengen samen in een team. <br />
           <br />Door deze vaardigheden die mij uitstralen, samen met een hoge
@@ -71,7 +71,7 @@
           wel waarom het nuttig is en wil altijd bijleren om andere beter te
           kunnen begeleiden. <br />
           <br />
-          Daarlangs ben ik goed in probleemoplossend denken. Dit is ook iets dat
+          Daarnaast ben ik goed in probleemoplossend denken. Dit is ook iets dat
           ik dagelijks toepas in mijn vrije tijd zoals de Rubik’s Cube oplossing
           tot en met vijf op vijf of andere puzzeltjes oplossen om algoritmes of
           patronen te zien. Ik vind het altijd leuk om mezelf uit te dagen om

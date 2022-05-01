@@ -35,7 +35,7 @@
           Als voorbereiding heeft ons team een aantal oefeningen gemaakt om zo
           onze kennis van Python op te frissen. In details houdt dit in dat we
           onze functies, condities, iteraties, bibliotheken, wiskundige
-          berekeningen en ook formules hebben herhaald. Daarlangs heeft elk team
+          berekeningen en ook formules hebben herhaald. Daarnaast heeft elk team
           het recht om code te gebruiken die zal al hadden voorbereid. Vandaar
           ook dat dit een belangrijk proces was als je de oefeningen wou maken
           op een snelle en efficiënte manier.<br /><br />
@@ -55,12 +55,12 @@
           Tijdens de wedstrijd waren we toch wel verrast van onze tijdelijke
           score. Dit was omdat we altijd binnen de top vijf waren van tientallen
           teams. Dit gaf ons een boost om verder te werken en misschien in de
-          top drie te belanden. Daarlangs waren de oefeningen zelf complex en de
+          top drie te belanden. Daarnaast waren de oefeningen zelf complex en de
           wedstrijd laat ook zien waarom je een team nodig zal hebben. Als je
           hier zelf aan zou werken zou dit een langdurig en complexe proces
           zijn. Als team, kan je de oefeningen opdelen in meerdere
           deeloefeningen en andere aanpakken krijgen van je teamleden, dit zorgt
-          voor ideeën die snel bedacht en uitgevoerd kunnen worden. Daarlangs is
+          voor ideeën die snel bedacht en uitgevoerd kunnen worden. Daarnaast is
           er ook de druk van andere teams en de tijdsdruk van de wedstrijd zelf.
           Dit zorgt ervoor dat je als team snel beslissingen moet nemen. Mijn
           team heeft besloten om de team op te splitsen in twee teams. Een
@@ -102,7 +102,7 @@
           Ik heb deze opdracht gekozen omdat ik hieruit veel heb kunnen leren in
           verschillende categorieën. Ik heb mijn vaardigheden kunnen testen
           vergeleken met andere studenten, vervolgens dat ik mezelf persoonlijk
-          heb kunnen ontwikkelen. Daarlangs heb ik ook mijn netwerk kunnen
+          heb kunnen ontwikkelen. Daarnaast heb ik ook mijn netwerk kunnen
           uitbreiden voor mijn carrière in de toekomst. Dit vind ik belangrijk
           om mijn kansen in deze sector te maximaliseren
         </p>

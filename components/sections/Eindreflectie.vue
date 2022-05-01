@@ -76,7 +76,7 @@
           hogeschool ook seminaries georganiseerd zodat studenten zich verder
           kunnen uitbreiden in deze sector. Door deze kennis heb zelf kleine
           applicaties en websites kunnen maken waardoor ik verder nog heb kunnen
-          bijleren. Daarlangs heeft het vak I-talent mij geholpen om mijn
+          bijleren. Daarnaast heeft het vak I-talent mij geholpen om mijn
           comfortzone uit te breiden en kansen te nemen. Een voorbeeld hiervan
           is het Study Buddy-programma waar ik aan deelnam.<br />
           <br />Aan het eind van de rit, toont elk student in welke mate hij de
@@ -94,11 +94,11 @@
           naar andere te luisteren en advies te geven als ze dat willen of nodig
           hebben. Ik heb mezelf bewezen hierin om mee deel te nemen aan de Study
           Buddy-programma en kleine projecten te maken samen met vrienden en
-          klasgenoten. Daarlangs luister ik ook altijd naar mijn medestudenten
+          klasgenoten. Daarnaast luister ik ook altijd naar mijn medestudenten
           op een persoonlijk niveau. Als ze een duwtje in de rug nodig hebben,
           geef ik deze graag om zo ook hun de kansen te bieden.<br />
           <br />Het tweede onderwerp is ondernemend en innovatief. Dit betekent
-          dat een student probleemoplossend kan denken en handelen. Daarlangs
+          dat een student probleemoplossend kan denken en handelen. Daarnaast
           betekent het ook dat de student zich in een professioneel omgeving
           zich goed kan uiten en hiermee zijn carrière verder kan vorderen op
           zijn eigen benen. Ik beschik deze kwaliteit omdat ik al verschillende
@@ -114,7 +114,7 @@
           hebben we door de coronavirus niet veel aan internationalisering
           kunnen deelnemen, hierdoor hoop ik wel om nog iets in de toekomst
           doen. Daarbij ben ik wel open om mijn carrière internationaal uit te
-          breiden. Daarlangs is er samenwerking, ik heb het gevoel dat dit een
+          breiden. Daarnaast is er samenwerking, ik heb het gevoel dat dit een
           sterktepunt is van mezelf. Door vele groepsprojecten te maken dat
           hogeschool PXL mij heeft aangeboden en daarbuiten, weet ik wat het
           betekent om een goede teamspeler te zijn. Vervolgens heb ik ook meer
@@ -123,7 +123,7 @@
           Om een goede impact te hebben op je team, heb ik geleerd dat je
           georganiseerd moet zijn en gestructureerd te werk moet gaan. Hiermee
           kan je makkelijker andere helpen bij het voltooien van taken als ze
-          vastzitten of advies nodig hebben. Daarlangs moet je ook goed kunnen
+          vastzitten of advies nodig hebben. Daarnaast moet je ook goed kunnen
           communiceren met andere teamleden en moet je niet bang zijn voor
           kritische feedback. Ten slotte is er ook nog netwerking. Ik ben
           tevreden over mijn netwerk momenteel, namelijk mijn vriendenkring,
@@ -148,7 +148,7 @@
           moet zetten op jezelf.<br />
           <br />Ik ben blij dat de hogeschool mij heeft kunnen steunen in deze
           jaren om mijn vaardigheden te kunnen verbeteren en om mezelf beter te
-          leren kennen en ontwikkelen. Daarlangs zijn mijn doelen nog niet
+          leren kennen en ontwikkelen. Daarnaast zijn mijn doelen nog niet
           bereikt omdat ik nog andere velden in de IT-sector geïnteresseerd ben
           dat hogeschool PXL niet heeft aangeboden, zoals Integration Developer
           en Data Warehousing. Ik zal deze zelf moeten bijleren, maar heb de

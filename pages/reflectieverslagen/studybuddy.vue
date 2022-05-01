@@ -40,7 +40,7 @@
           persoon omdat er geen antwoord was van de andere tuttees. Deze tuttee
           had moeilijkheden in het algemeen. Ik verwachtte ook veel vragen over
           het denkproces voor het programmeren en het programmeren zelf.
-          Daarlangs hadden we besloten om de moeilijke oefeningen van de les te
+          Daarnaast hadden we besloten om de moeilijke oefeningen van de les te
           bekijken en ook om de reeds gemaakte oefeningen te optimaliseren. Een
           zwaktepunt van hem was dat hij weinig over programmeren weet en zelfs
           weinig met een computer heeft gewerkt. Hierdoor had ik besloten om in
@@ -68,7 +68,7 @@
           ik de andere tuttee meer begeleid. Ik heb hun de kans gegeven om
           gemaakte oefeningen te vergelijken tussen hun en mijn feedback te
           kunnen implementeren. Het ging minder vlot als met één tuttee omdat
-          mijn aandacht gesplitst was. Daarlangs heb ik gevraagd om hun
+          mijn aandacht gesplitst was. Daarnaast heb ik gevraagd om hun
           oefeningen op een alternatieve manier te maken zodat ze kunnen
           nadenken over wat er nog mogelijk is om de oefeningen op te lossen.
           Vervolgens hadden ze ook feedback gekregen van de lector en hebben we
@@ -88,7 +88,7 @@
           Dit was zo omdat het niet mogelijk was om fysiek samen te komen.<br /><br />
           Ik vond dat de sessies vlot waren verlopen en dat de tuttees zeker
           hebben kunnen bijleren. Naast hun, had ik zelf ook bijgeleerd als
-          begeleider. Daarlangs vond ik het moeilijk om administratief alle
+          begeleider. Daarnaast vond ik het moeilijk om administratief alle
           sessies in te plannen en ervoor te zorgen dat iedereen op de hoogte
           was. Dit is ook een beetje mislukt omdat mijn tuttees mijn mails niet
           hebben gezien. Met dit bedoel ik dat ik normaal drie tuttees had in

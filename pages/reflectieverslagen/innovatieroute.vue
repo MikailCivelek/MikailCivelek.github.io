@@ -103,7 +103,7 @@
           over concepten van UI/UX. Hierdoor heb ik kritisch kunnen terugkijken
           naar de applicaties die ik al heb gemaakt en heb ik mijn vordering al
           meteen gemerkt. Dit laat zien dat ik nog veel te leren heb en altijd
-          een betere ontwikkelaar kan worden. Daarlangs besteed ik nu meer
+          een betere ontwikkelaar kan worden. Daarnaast besteed ik nu meer
           aandacht aan de gebruikservaring en gebruiksvriendelijkheid wanneer ik
           een applicatie maak.<br /><br />
           Ik heb deze opdracht gekozen omdat ik hier veel heb bijgeleerd. Ik
@@ -126,7 +126,7 @@
           in de toekomst een applicatie zal maken.<br /><br />
           Ik had geen problemen met de innovatieroute of de leerstof die
           gepresenteerd werd, alles werd grondig uitgelegd en werden we goed
-          begeleid door de bedrijven daarlangs is het geen nieuw onderwerp voor
+          begeleid door de bedrijven daarnaast is het geen nieuw onderwerp voor
           mij. Na de innovatieroute heb ik ook connecties kunnen maken met
           Appwise en Appfoundry op LinkedIn en heb deze ook gecontacteerd in
           verband met een stage. Helaas, heb ik mijn stage niet bij hun
